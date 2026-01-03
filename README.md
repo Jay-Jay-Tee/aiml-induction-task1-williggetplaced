@@ -72,7 +72,7 @@ The model demonstrates that student placement can be predicted with reasonable a
 
 🛠️ Technologies Used
 
-Python
-Pandas
-Matplotlib, Seaborn
+Python,
+Pandas,
+Matplotlib, Seaborn,
 Scikit-learn
