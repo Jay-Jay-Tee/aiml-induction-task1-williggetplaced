@@ -1,6 +1,6 @@
 Placement Prediction using Logistic Regression
 
-GDSC AI/ML Inductions – Beginner Task 1
+GDSC AI/ML Inductions - Beginner Task 1
 
 📌 Problem Statement
 
@@ -76,3 +76,4 @@ Python,
 Pandas,
 Matplotlib, Seaborn,
 Scikit-learn
+
